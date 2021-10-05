@@ -1,3 +1,21 @@
+<<<<<<< HEAD
 main
 build
 .vscode
+=======
+*.o
+/make/main
+/process/proc2
+/argp/CMakeFiles/
+/argp/CMakeCache.txt
+/argp/cmake_install.cmake
+/argp/Makefile
+/argp/example
+/cmake/build/
+/pipe/build/
+/popen/gnuplot
+/popen/popen
+/popen/popen-read
+/oop/object1
+/pipe/pipe2
+>>>>>>> 60aaf7086e715661e7280a771debfc7d7e52f6da
