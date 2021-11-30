@@ -1,0 +1,3 @@
+/mnt/e/Codes/Disciplinas/Desenvolvimento de Software para Sistemas Embarcados/sel0456/exerc-3/build/CMakeFiles/rebuild_cache.dir
+/mnt/e/Codes/Disciplinas/Desenvolvimento de Software para Sistemas Embarcados/sel0456/exerc-3/build/CMakeFiles/edit_cache.dir
+/mnt/e/Codes/Disciplinas/Desenvolvimento de Software para Sistemas Embarcados/sel0456/exerc-3/build/CMakeFiles/sort.dir
