@@ -1,3 +1,0 @@
-/mnt/161EAC0D1249AD81/Codes/Disciplinas/Desenvolvimento de Software para Sistemas Embarcados/sel0456/Aula 06/Pipe/build/CMakeFiles/rebuild_cache.dir
-/mnt/161EAC0D1249AD81/Codes/Disciplinas/Desenvolvimento de Software para Sistemas Embarcados/sel0456/Aula 06/Pipe/build/CMakeFiles/edit_cache.dir
-/mnt/161EAC0D1249AD81/Codes/Disciplinas/Desenvolvimento de Software para Sistemas Embarcados/sel0456/Aula 06/Pipe/build/CMakeFiles/pipe.dir
