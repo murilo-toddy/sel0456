@@ -1,11 +1,7 @@
-#!/usr/bin/python3
-
 import math
-
 import gi
 
 gi.require_version("Gtk", "3.0")
-
 from gi.repository import Gtk, Gdk, GLib, GObject
 
 builder = Gtk.Builder()
@@ -36,12 +32,17 @@ class Handler:
     def on_adj1_changed(self, wdg):
         print("Adjustment adj1 alterado")
 
-builder.add_from_file("main.glade")
+    def on_combo1_changed(self, wut):
+        print('yes')
 
-builder.connect_signals(Handler())
 
-window = builder.get_object('window1')
+if __name__ == '__main__':
+    builder.add_from_file("main.glade")
 
-window.show_all()
+    builder.connect_signals(Handler())
 
-Gtk.main()
+    window = builder.get_object('window1')
+
+    window.show_all()
+
+    Gtk.main()
